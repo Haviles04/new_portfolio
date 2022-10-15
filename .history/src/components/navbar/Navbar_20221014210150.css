@@ -1,0 +1,16 @@
+.navbar{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #D2D2D2;
+}
+
+.logo{
+    height: 100px;
+    width: auto;
+}
+
+.navbarList {
+    display: inline-block;
+}

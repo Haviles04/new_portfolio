@@ -1,0 +1,17 @@
+.contact{
+    position: absolute;
+    margin: 0 auto;
+    z-index: 2;
+    width: 50%;
+    height: auto;
+    background-color: black;
+    opacity: .75;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    border-radius: 20px;
+    top: 50%;
+}

@@ -1,0 +1,14 @@
+img{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    border-radius: 0 0 50px 50px;
+}
+
+h1{
+    position: absolute;
+    top: 60vh;
+    left: 65%;
+    color: white;
+}
+

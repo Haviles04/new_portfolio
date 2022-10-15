@@ -1,0 +1,22 @@
+.navbar{
+    position: absolute;
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    border-radius: 10px;
+}   
+
+.logo{
+    height: 100px;
+    width: auto;
+}
+
+.navbarList li {
+    display: inline-block;
+    margin: 20px;
+    font-size:25px;
+    color:white;
+}

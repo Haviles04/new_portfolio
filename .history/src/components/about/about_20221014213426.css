@@ -1,0 +1,7 @@
+.about{
+    width: 50%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,12 @@
+.about{
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+    background-color: black;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}

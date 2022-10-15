@@ -1,0 +1,11 @@
+img{
+    width: 100%;
+    height: 85vh;
+    object-fit: cover;
+    border-radius: 50px;
+}
+
+h1{
+    position: absolute;
+    top: 60vh;
+}

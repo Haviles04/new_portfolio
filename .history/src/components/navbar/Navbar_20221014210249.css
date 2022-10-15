@@ -1,0 +1,17 @@
+.navbar{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 5px solid #D2D2D2;
+    border-radius: 10px;
+}   
+
+.logo{
+    height: 100px;
+    width: auto;
+}
+
+.navbarLis li {
+    display: block;
+}

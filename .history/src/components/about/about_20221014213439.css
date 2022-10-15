@@ -1,0 +1,9 @@
+.about{
+    margin-top: 0;
+    width: 50%;
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

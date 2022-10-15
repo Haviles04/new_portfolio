@@ -1,0 +1,10 @@
+.about{
+    margin-top: 2%;
+    width: 50%;
+    height: auto;
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

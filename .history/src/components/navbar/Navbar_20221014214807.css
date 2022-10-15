@@ -1,0 +1,23 @@
+.navbar{
+    position: absolute;
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}   
+
+.logo{
+    position: absolute;
+    height: 75px;
+    width: auto;
+    top: 25%;
+}
+
+.navbarList li {
+    display: inline-block;
+    margin: 20px;
+    font-size:25px;
+    color:white;
+}
