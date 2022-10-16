@@ -1,0 +1,11 @@
+.contact a {
+    text-decoration: none;
+}
+
+.contact a:hover {
+    color: #d2d2d2;
+}
+
+.contact a:visited {
+    color: #d2d2d2;
+}

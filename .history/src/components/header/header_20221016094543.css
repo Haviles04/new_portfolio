@@ -1,0 +1,23 @@
+
+
+img{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    border-radius: 0 0 50px 50px;
+}
+
+.headerH1{
+    position: relative;
+    top: 60vh;
+    left: 65%;
+    color: white;
+}
+
+.headerH2{
+    position:absolute;
+    top:65vh;
+    left:65%;
+    color:#D2D2D2;
+}
+

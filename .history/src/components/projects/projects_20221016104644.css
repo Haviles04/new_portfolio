@@ -1,0 +1,30 @@
+.projects{
+    position: absolute;
+    margin: 0 auto;
+    z-index: 2;
+    width: 50%;
+    height: auto;
+    background-color: black;
+    opacity: .75;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.projects h3 h4{
+    display: block;
+}
+
+.projects img {
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 5px;
+}
+
+.projectImgContainer{
+    width: fit-content;
+}
