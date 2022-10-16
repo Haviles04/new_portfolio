@@ -1,0 +1,17 @@
+.projects{
+    padding: margin-bottom: 10px;
+}
+.projects img {
+    height: 75%;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 20px;
+    margin: 5px;
+}
+
+.projectImgContainer{
+    display:flex;
+    flex-wrap: wrap;
+    width: fit-content;
+    justify-content: center;
+}

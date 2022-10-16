@@ -1,0 +1,9 @@
+.typewriter{
+    color: white;
+    font-size: 40px;
+}
+
+.typewriterName{
+    position: absolute;
+    top: 50%;
+}

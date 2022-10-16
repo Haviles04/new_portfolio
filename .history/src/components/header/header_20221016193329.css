@@ -1,0 +1,28 @@
+.typewriter{
+    color: white;
+    font-size: 40px;
+}
+
+.typewriterName{
+    position: absolute;
+    top: 50%;
+    left: 60%;
+}
+
+.typewriterDesc{
+    position: absolute;
+    top: 55%;
+    left: 60%;
+}
+
+@media only screen and (max-width: 600px) {
+    .typewriterName{
+        position: relative;
+        margin: 0;
+    }
+
+    .typewriterDesc{
+        position: relative;
+    }
+
+  }

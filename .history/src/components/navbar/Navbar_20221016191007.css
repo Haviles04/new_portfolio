@@ -1,0 +1,55 @@
+.navbar{
+    position: relative;
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}   
+
+
+
+.navbarList li {
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 20px;
+    font-size:25px;
+    color:#d2d2d2;
+}
+
+.navbar a:link{
+    text-decoration: none;
+}
+
+.navbar a:visited{
+    color: #d2d2d2;
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+
+@media only screen and (max-width: 600px) {
+   .navbar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+   }
+
+   .navbar li{
+    margin: 0;
+
+   }
+
+   .navbar a{
+    margin: 6px;
+   }
+
+  }

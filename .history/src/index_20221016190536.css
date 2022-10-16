@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap');
+
+body, html{
+    font-family: 'Space Mono', monospace;
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    background-image: url('./assets/meBW.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+.container{
+    position: absolute;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    z-index: 2;
+    width: 25%;
+    height: auto;
+    background-color: black;
+    opacity: .75;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    border-radius: 20px;
+    top: 20%;
+}
+
+
+@media only screen and (max-width: 600px) {
+    body, html{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: black;
+        background-image: none;
+    }
+    
+    .container{
+        position: relative;
+        width: 100vw;
+        margin: 0;
+        margin-top: 300%;
+    }
+
+
+  }
