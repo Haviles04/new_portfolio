@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/new_portfolio/static/css/main.88e0e866.css",
+    "main.js": "/new_portfolio/static/js/main.138b136e.js",
+    "static/media/meBW.jpg": "/new_portfolio/static/media/meBW.5288f2cc2dae57fd3a33.jpg",
+    "static/media/tipcalc.png": "/new_portfolio/static/media/tipcalc.7d51082f3e10e830e483.png",
+    "static/media/rating.png": "/new_portfolio/static/media/rating.9208d8995e3c35a99869.png",
+    "index.html": "/new_portfolio/index.html",
+    "main.88e0e866.css.map": "/new_portfolio/static/css/main.88e0e866.css.map",
+    "main.138b136e.js.map": "/new_portfolio/static/js/main.138b136e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88e0e866.css",
+    "static/js/main.138b136e.js"
+  ]
+}
